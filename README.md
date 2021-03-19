@@ -32,7 +32,7 @@ Mdk3 belgesinden:
 `
 
 ## Yükleme
-  1. Dosyaları indirin `git clone https://github.com/125K/PwrDeauther.git`
+  1. Dosyaları indirin `git clone https://github.com/alkank/wikill.git`
 
   2. Diğer gerekli yüklemeler
 
